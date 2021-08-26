@@ -336,3 +336,81 @@
 	<math.h>
 	"funcionarios.h"
 
+1627054522 source:/home/charles/Documents/TP_AEDSII/AEDSII/arvore_binaria.c
+	"arvore_binaria.h"
+
+1627054522 /home/charles/Documents/TP_AEDSII/AEDSII/arvore_binaria.h
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.h"
+
+1627054522 /home/charles/Documents/TP_AEDSII/AEDSII/funcionarios.h
+	<stdio.h>
+
+1629404943 source:/home/charles/Documents/TP_AEDSII/AEDSII/funcionario.c
+	<stdlib.h>
+	<string.h>
+	"funcionarios.h"
+
+1629818114 source:/home/charles/Documents/TP_AEDSII/AEDSII/intercalacao.c
+	"intercalacao.h"
+	"funcionarios.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1627054522 /home/charles/Documents/TP_AEDSII/AEDSII/intercalacao.h
+	"lista.h"
+	"pilha.h"
+
+1627054522 /home/charles/Documents/TP_AEDSII/AEDSII/lista.h
+
+1627054376 /home/charles/Documents/TP_AEDSII/AEDSII/pilha.h
+	"funcionarios.h"
+
+1627054522 source:/home/charles/Documents/TP_AEDSII/AEDSII/lista.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1629987296 source:/home/charles/Documents/TP_AEDSII/AEDSII/main.c
+	<stdlib.h>
+	"ordenacao_busca.h"
+	"lista.h"
+	"particoes.h"
+	"intercalacao.h"
+	"arvore_binaria.h"
+
+1613427796 /home/charles/Documents/TP_AEDSII/AEDSII/ordenacao_busca.h
+	<stdio.h>
+	"funcionarios.h"
+
+1615819418 /home/charles/Documents/TP_AEDSII/AEDSII/particoes.h
+	<stdio.h>
+	"lista.h"
+
+1615751784 source:/home/charles/Documents/TP_AEDSII/AEDSII/manipulacao_arquivos.c
+	<stdlib.h>
+	"manipulacao_arquivos.h"
+	"funcionarios.h"
+	"math.h"
+
+1615751768 /home/charles/Documents/TP_AEDSII/AEDSII/manipulacao_arquivos.h
+	<stdio.h>
+
+1627054383 source:/home/charles/Documents/TP_AEDSII/AEDSII/ordenacao_busca.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcionarios.h"
+
+1629999497 source:/home/charles/Documents/TP_AEDSII/AEDSII/particoes.c
+	"funcionarios.h"
+	<stdlib.h>
+	<limits.h>
+	"particoes.h"
+
+1627054522 source:/home/charles/Documents/TP_AEDSII/AEDSII/pilha.c
+	"pilha.h"
+
